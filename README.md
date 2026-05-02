@@ -4,7 +4,6 @@
 This repository contains my learning and projects in:
 - Python programming
 - Data Structures & Algorithms
-- Web Development (HTML, CSS, JavaScript)
 
 ## 🚀 Goal
 To build job-ready skills and prepare for software development roles.
@@ -12,9 +11,7 @@ To build job-ready skills and prepare for software development roles.
 ## 📂 Projects
 - DSA Practice Problems
 - Mini Web Projects
-- Backend Projects (Node.js + MongoDB)
 
 ## 🛠️ Tech Stack
 - Python
-- HTML, CSS, JavaScript
-- Git & GitHub
+
